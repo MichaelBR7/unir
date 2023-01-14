@@ -1,0 +1,52 @@
+[
+  {
+    "Alumno": "Juan Pacheco",
+    "Nota": 10,
+    "Ranking": 1
+  },
+  {
+    "Alumno": "Paul Rojas",
+    "Nota": 9,
+    "Ranking": 4
+  },
+  {
+    "Alumno": "Javid Alvarez",
+    "Nota": 9,
+    "Ranking": 5
+  },
+  {
+    "Alumno": "Ariell Paladines",
+    "Nota": 8,
+    "Ranking": 15
+  },
+  {
+    "Alumno": "Michael Benavides",
+    "Nota": 7,
+    "Ranking": 30
+  },
+  {
+    "Alumno": "Raul Noriega",
+    "Nota": 7,
+    "Ranking": 32
+  },
+  {
+    "Alumno": "Joseph Banchon",
+    "Nota": 6,
+    "Ranking": 50
+  },
+  {
+    "Alumno": "Yeltsin Castro",
+    "Nota": 5,
+    "Ranking": 68
+  },
+  {
+    "Alumno": "Marcelo Quezada",
+    "Nota": 2,
+    "Ranking": 89
+  },
+  {
+    "Alumno": "Ariel Mendoza",
+    "Nota": 1,
+    "Ranking": 120
+  }
+]
